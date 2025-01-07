@@ -14,7 +14,7 @@
 
 
 ### Project Overview
-
+---
  Daikibo Industrials is a heavy machinery manufacturing company with four factories at different locations. The Daikibo tech team aims to understand which locations have the most broken machines and which machine breaks most often. 
 
 

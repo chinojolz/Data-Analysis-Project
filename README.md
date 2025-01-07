@@ -17,6 +17,10 @@
 
  Daikibo Industrials is a heavy machinery manufacturing company with four factories at different locations. The Daikibo tech team aims to understand which locations have the most broken machines and which machine breaks most often. 
 
+
+ 
+![Daikibo Data Visualization](https://github.com/user-attachments/assets/1bfa928f-4f7f-44af-8d1c-016000921cf0)
+
  ### Data Source
 
  Diakibo's Telemetry Data: Deloitte Australia Technology Virtual Experience on Forage. It contains the telemetry data collected from the four factories of the company[Check it out here](https://www.theforage.com/virtual-experience/YPWCiGNTkr6QxcpEu/deloitte-australia/technology-nmwn/coding) 
